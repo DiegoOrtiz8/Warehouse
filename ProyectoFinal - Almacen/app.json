@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Control de Almacen",
+    "description": "By Diego Enrique Carranza Ortiz, Esta App se desarrollo como proyecto de la materia de Programacion para Internet",
+    "slug": "snack-e98cce18-2003-487e-a7c7-9767f3cef882",
+    "privacy": "unlisted",
+    "sdkVersion": "37.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://i.imgur.com/xJXRiJ5.png",
+    "loading": {
+      "icon": "https://i.imgur.com/xJXRiJ5.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.diegocarranza.almacen",
+      "versionCode": 1
+    },
+    "splash": {
+      "image": "https://i.imgur.com/ER0rKcl.png",
+      "backgroundColor": "#455a64"
+    }
+  }
+}
